@@ -1,5 +1,4 @@
-# Lenguajes de Programación P2
-## Taller en Ruby
+# Taller en Ruby
 
 Desarrollar una aplicación que permita extraer datos de la web usando Ruby y sus gemas.
 
