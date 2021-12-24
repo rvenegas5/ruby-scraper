@@ -4,8 +4,6 @@ Desarrollar una aplicación que permita extraer datos de la web usando Ruby y su
 
 Web: https://editorial.rottentomatoes.com/guide/2021-best-movies/
 
-0.	Para este taller será necesario disponer de una cuenta en repl.it o instalar el irb en su equipo.
-
 1.	El primer ejercicio será crear el archivo principal.rb para implementar un programa en ruby que permita definir el siguiente menú.
 ```
 Menu Scrapeando v0.01
